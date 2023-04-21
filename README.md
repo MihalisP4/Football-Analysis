@@ -6,4 +6,4 @@ Using R programming language to
 queries. 
 • Group by and summarize retrieved results
 • Data cleaning
-• Data visualization (Bar plot, Scatter plot, Aesthetics handling
+• Data visualization (Bar plot, Scatter plot, Aesthetics handling)
